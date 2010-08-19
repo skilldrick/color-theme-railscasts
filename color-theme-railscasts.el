@@ -48,6 +48,7 @@
      (region ((t (:background "#555577"))))
      (primary-selection ((t (:background "#555577"))))
      (isearch ((t (:background "#555555"))))
+     (query-replace ((t (:background "#555555"))))
      (zmacs-region ((t (:background "#555577")))) 
      (secondary-selection ((t (:background "darkslateblue")))) 
      (flymake-errline ((t (:background "LightSalmon" :foreground 
